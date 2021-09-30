@@ -64,3 +64,13 @@
 
 }
 
+.thumbnail {
+    border: 1px solid #000;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+}
+
+img:hover{
+    box-shadow: 0 0 2px 1px;
+}
