@@ -99,3 +99,14 @@ img.social{
     width:100px;
     padding: 20px;
 }
+
+.aboutme{
+    position: absolute;
+    background-color: rgb(200,217,152);
+    padding: 20px;
+    margin: 80px;
+    border: solid 15px rgb(152,169,107);
+    border-radius: .5em;
+    top: 150px;
+
+}
