@@ -9,7 +9,7 @@
     margin: 5%;
     border: solid 15px rgb(152,169,107);
     border-radius: .5em;
-    top: 50%
+    top: 500px;
 
 }
 
@@ -95,7 +95,7 @@ h2{
     color:#487346;
 }
 
-.social{
+img.social{
     width:100px;
     padding: 20px;
 }
